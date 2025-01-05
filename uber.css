@@ -1,0 +1,340 @@
+.more{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.body{
+    background-color: black;
+}
+.li{
+    display: inline-block;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+.li3{
+    display: inline-block;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 0px;
+}
+.li2{
+    display: inline-block;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 600px;
+}
+.button1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+background-color: white;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 15px;
+padding-right: 15px;
+border-radius: 30px;
+margin-left: 51px;
+border: none;
+}
+.a{
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+text-decoration: none;
+}
+.a1{
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+}
+.globe{
+    color: white;
+}
+.h1{
+    display: block;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:bolder;
+    color: white;
+    font-size:45px;
+    margin-top: 120px;
+    margin-left: 70px;
+}
+.button2{
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 24px;
+    padding-right: 24px;
+    border-radius: 8px;
+    display: block;
+    margin-left: 70px;
+}
+.button{
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 28px;
+    padding-right: 28px;
+    border-radius: 8px;
+    display: block;
+}
+.input{
+    padding-top: 18px;
+    padding-right: 250px;
+    padding-bottom: 18px;
+    padding-left: 20px;
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    color: black;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+}
+.p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 70px;
+}
+.div1{
+display: inline-block;
+vertical-align: middle;
+}
+.div2{
+    display: inline-block;
+vertical-align: middle; 
+}
+.img1{
+    height: 650px;
+    margin-left: 160px;
+}
+.h2{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;
+font-size: 52px;
+}
+.p2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+.button3{
+border: none;
+border-radius: 8px;
+padding-right: 24px;
+padding-left: 24px;
+padding-top: 14px;
+padding-bottom: 14px;
+margin-right: 20px;
+}
+.a2{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+.div3{
+    display: inline-block;
+margin-top: 60px;
+}
+.div4{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 40px;
+}
+.img2{
+    height: 558px;
+    margin-left: 70px;
+    display: inline-block;
+    vertical-align:middle;
+}
+.div5{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 70px;
+    margin-right: 40px;
+    margin-top: 60px;
+}
+.div6{
+display: inline-block;
+vertical-align: middle;
+margin-top: 0px;
+}
+.h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 52px;
+    font-weight: 700;
+}
+.p3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+.button4{
+    border: none;
+border-radius: 8px;
+padding-right: 24px;
+padding-left: 24px;
+padding-top: 14px;
+padding-bottom: 14px;
+margin-right: 20px;
+}
+.a3{
+    color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+.img3{
+    height: 558px;
+}
+.div8{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 70px;
+    margin-right: 10px;
+    margin-top: 60px;
+}
+.h4{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+.p4{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+.button5{
+    border: none;
+border-radius: 8px;
+padding-right: 24px;
+padding-left: 24px;
+padding-top: 14px;
+padding-bottom: 14px;
+margin-right: 20px;
+}
+.div7{
+    display: inline-block;
+    vertical-align: middle;
+margin-top: 60px;
+
+}
+.img4{
+    height: 558px;
+    border-radius: 11px;
+    margin-left: 70px;
+}
+.a4{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div8{
+display: inline-block;
+margin-left: 70px;
+vertical-align: bottom;
+}
+.h5{
+    color: white;
+    margin-left: 70px;
+font-family: Arial, Helvetica, sans-serif;
+display: block;
+margin-top: 150px;
+margin-bottom: 0px;
+}
+.button6{
+    padding-right: 100px;
+    background-color: black;
+    color: white;
+    border: none;
+    transition: ease-out 1s;
+    margin-bottom: 50px;
+}
+.img5{
+    display: inline-block;
+    vertical-align: middle;
+   
+}
+.h6{
+    color: white;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+.p6{
+    vertical-align: bottom;
+}
+.logo{
+    margin-left: 10px;
+}
+.div9{
+    display: inline-block;
+margin-left: 10px;
+vertical-align: bottom;
+}
+.button6:hover{
+    background-color: gray;
+    color: black;
+    margin-right: 10px;
+    transition: ease-in 1s;
+    text-decoration: underline;
+}
+.h6:hover{
+    color: black;
+}
+.p6:hover{
+    color: black;
+}
+.img6{
+    border: none;
+    border-radius: 15px;
+    padding: 2px;
+}
+.link{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: none;
+    margin-left: 200px;
+    gap: 20px;
+}
+.link2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: none;
+    margin-left: 170px;
+    gap: 20px;
+}
+.link3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: none;
+    margin-left: 170px;
+    gap: 20px;
+}
+.link4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: none;
+    margin-left: 170px;
+    gap: 20px;
+}
+.div10{
+    background-color:rgb(10, 6, 6);
+}
+.div11{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 70px;
+}
